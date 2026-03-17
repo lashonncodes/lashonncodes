@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm LaShonn 
 
-<!--
-**lashonncodes/lashonncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Python, Linux, Cloud, and DevOps.
 
-Here are some ideas to get you started:
+## Current Projects
+- Band Name Generator
+- Tip Calculator
+- Python Practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Learning
+- Python
+- Git & GitHub
+- Linux
+- AWS
+
+## Goal
+Transition into a Cloud / DevOps career.
